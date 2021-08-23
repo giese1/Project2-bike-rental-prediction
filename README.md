@@ -9,18 +9,31 @@
 # Variables:
 
 #Date
+
 #Rented.Bike.Count
+
 #Hour
+
 #Temperature in celsius
+
 #Humidity in %
+
 #Wind.speed in m/s
+
 #Visibility
+
 #Dew.Point.Temperature in celsius
+
 #Solar.Radiation in MJ/m2
+
 #Rainfall in mm
+
 #Snowfall in cm
+
 #Seasons Winter, Spring, Summer, Autumn
+
 #Holiday yes or no
+
 #Functioning.Day yes or no
 
 # dataset source
